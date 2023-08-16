@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>INGP_Tools</Name>
+    <Assembly>INGP_Tools\INGP_Tools.dll</Assembly>
+    <ClientId>3764ada9-21f4-4788-8cde-16ba65f41efe</ClientId>
+    <FullClassName>INGP_Tools.ExternalApp</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>markovey@ingradproekt.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>
